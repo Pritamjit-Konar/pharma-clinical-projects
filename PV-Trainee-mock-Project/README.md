@@ -47,7 +47,7 @@ This project covers:
 
 ---
 
-## 📂 Project Components (to be added)
+## 📂 Project Components
 
 - Mock AE Intake Form  
 - ICSR Data Entry Sheet  
