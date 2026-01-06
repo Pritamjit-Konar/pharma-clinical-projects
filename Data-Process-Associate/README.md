@@ -7,9 +7,6 @@
 **Pritamjit Konar**  
 M.Sc Biotechnology 
 
-**📄 Project Report (PDF)**
-Click here to view or download the full mock portfolio:  
-[Clinical Data Process Associate – Mock Portfolio (PDF)](Data-Process-Associate/Clinical%20Data%20Process%20Associate_Quanticate_Mock%20Portfolio_Pritamjit.pdf)
 
 **Target roles:** Data Process Associate | Clinical Data Associate | Clinical Data Management Trainee  
 
