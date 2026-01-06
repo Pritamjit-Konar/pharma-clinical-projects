@@ -8,7 +8,7 @@ M.Sc Biotechnology
 ## 📄 Project Report (PDF)
 
 Click here to view or download the full mock portfolio:  
-[Trainee Pharmacovigilance Mock Portfolio – PDF](./Trainee%20Specialist%20Pharmacovigilance_Mock%20Portfolio.pdf)
+PV-Trainee-mock-Project/Trainee Specialist Pharmacovigilance_Mock Portfolio_Pritamjit.pdf
 
 Target roles: Trainee Pharmacovigilance | Drug Safety Associate | PV Trainee
 
