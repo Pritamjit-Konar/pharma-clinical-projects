@@ -4,9 +4,13 @@ This repository contains a mock Clinical Trial Assistant (CTA) portfolio created
 
 
 **What's Inside**
+
 Study documentation index + filing map (Protocol/ICF/CRF/Reports)
+
 Regulatory submission tracker + basic GCP compliance checklist
+
 Site invoice/payment tracker + vendor code log
+
 Meeting scheduler + Minutes of Meeting (MoM) template + action tracker
 
 
