@@ -16,6 +16,9 @@ KPI task tracker + stakeholder follow-up log.
 
 MS Excel (trackers, QC flags), MS Word (process notes/templates)
 
+**How to View**
+For viewing, please click on the uploaded pdf file.
+
 **Disclaimer**
 
 Educational portfolio only. No confidential company/client data and no real dossiers are used.
