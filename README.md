@@ -8,7 +8,7 @@
 
 ## About this repository
 
-This repository contains mock and practice projects created to demonstrate my readiness for entry-level roles in:
+This repository contains consolidated mock projects across Regulatory Affairs, Clinical Data Management, Pharmacovigilancee, and Clinical Trial Operations. Recruiters may explore individual folders as needed.
 
 - Pharmacovigilance (PV)  
 - Clinical Data Management (CDM)  
